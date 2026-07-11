@@ -1,0 +1,32 @@
+[submodule "repositories/security-monitoring"]
+	path = repositories/security-monitoring
+	url = git@github.com:SecLeap/security-monitoring.git
+	branch = main
+[submodule "repositories/threat-tracing-forensics"]
+	path = repositories/threat-tracing-forensics
+	url = git@github.com:SecLeap/threat-tracing-forensics.git
+	branch = main
+[submodule "repositories/incident-response"]
+	path = repositories/incident-response
+	url = git@github.com:SecLeap/incident-response.git
+	branch = main
+[submodule "repositories/offensive-security"]
+	path = repositories/offensive-security
+	url = git@github.com:SecLeap/offensive-security.git
+	branch = main
+[submodule "repositories/vulnerability-management"]
+	path = repositories/vulnerability-management
+	url = git@github.com:SecLeap/vulnerability-management.git
+	branch = main
+[submodule "repositories/security-operations"]
+	path = repositories/security-operations
+	url = git@github.com:SecLeap/security-operations.git
+	branch = main
+[submodule "repositories/asset-exposure-management"]
+	path = repositories/asset-exposure-management
+	url = git@github.com:SecLeap/asset-exposure-management.git
+	branch = main
+[submodule "repositories/security-engineering-delivery"]
+	path = repositories/security-engineering-delivery
+	url = git@github.com:SecLeap/security-engineering-delivery.git
+	branch = main
